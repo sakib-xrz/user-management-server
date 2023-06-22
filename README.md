@@ -1,7 +1,7 @@
-# user-management-server
+### user-management-server
 ### Live Link: https://user-management-server-phi.vercel.app/
 
-* Useful APIS:
+# Useful APIS:
 # Get all users: /api/v1/user (GET)
 # Create a user: /api/v1/user (POST)
 # Uppdate a user: /api/v1/user/:id (PATCH)
